@@ -7,7 +7,7 @@ A small web app that does two jobs, using AI:
 
 It is built to **learn from**. The company in the examples, *Aldermoor Industries*, is **fictional**, and the sample documents contain made-up data.
 
-> The "checks" in the audit are done by the AI from its general knowledge (only the exchange-rate check uses a live data source). This is a demo of how such a system is built, **not** a real compliance tool.
+> The "checks" in the audit are done by the AI from its general knowledge (only the exchange-rate check uses a live data source). This is a demo of how such a system is built, **not** a real compliance tool. 
 
 **New here? Read the [Learner Guide](docs/README.md)**: the story, every file explained, exercises and examples.
 
